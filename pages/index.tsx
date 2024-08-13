@@ -15,10 +15,10 @@ export default function Home() {
   return (
     <div>
       <Head>
-        <title>CeSIUM Pelo Mundo</title>
+        <title>EPIC Pelo Mundo</title>
         <meta
           name="description"
-          content="A world map with the places we've been"
+          content="Um mapa mundi com todos os locais onde já estivemos."
         />
         <link
           rel="apple-touch-icon"

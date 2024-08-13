@@ -52,11 +52,11 @@ export default function Sidebar({ pins, isOpen, setOpen, mapRef }: Props) {
       <div className={styles.sidebar}>
         <div className={styles.content}>
           <div className={styles.heading}>
-            <Link href="https://cesium.link/">
+            <Link href="https://epicje.pt/">
               <Image
                 src="/images/cesium.png"
-                alt="CeSIUM Logo"
-                width={180}
+                alt="EPIC Logo"
+                width={130}
                 height={61}
                 style={{ cursor: 'pointer' }}
                 priority
