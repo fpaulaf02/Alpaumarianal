@@ -63,34 +63,6 @@ export default function Sidebar({ pins, isOpen, setOpen, mapRef }: Props) {
               />
             </Link>
             <br></br>
-            <div className={styles.buttons}>
-              <div className={styles.tab}>
-                <button
-                  className={getButtonStyle('locations')}
-                  type={'button'}
-                  role="button"
-                  onClick={() =>
-                    changeVariables(true, setLocations, setLeaderboard)
-                  }
-                >
-                  {' '}
-                  Locations <i className="bi bi-geo-fill"></i>{' '}
-                </button>
-                &nbsp;
-                <button
-                  className={getButtonStyle('leaderboard')}
-                  type={'button'}
-                  role="button"
-                  onClick={() =>
-                    changeVariables(false, setLocations, setLeaderboard)
-                  }
-                >
-                  {' '}
-                  Leaderboard <i className="bi bi-award-fill"></i>{' '}
-                </button>
-                <br></br>
-              </div>
-            </div>
           </div>
           <CSSTransition
             in={locations}
