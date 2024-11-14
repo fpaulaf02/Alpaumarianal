@@ -71,4 +71,14 @@ export const PLACES: IPin[] = [
     date: '2024-04-03',
     photo: '/photos/davidsousaa/JEEAC2023.jpeg'
   },
+  {
+    author: 'Francisco Gomes, Filipe Tavares, Diana Fiúza',
+    username: 'davidsousaa',
+    type: EPinType.Special,
+    city: 'Bucareste',
+    country: 'Roménia',
+    coordinates: [45.461990, 9.177132],
+    date: '2024-04-03',
+    photo: '/photos/davidsousaa/JEEAC2023.jpeg'
+  },
 ];
