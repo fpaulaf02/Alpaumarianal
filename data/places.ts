@@ -77,7 +77,7 @@ export const PLACES: IPin[] = [
     type: EPinType.Special,
     city: 'Bucareste',
     country: 'Roménia',
-    coordinates: [45.461990, 9.177132],
+    coordinates: [44.44738, 26.09787],
     date: '2024-11-09',
     photo: '/photos/davidsousaa/JEEAC2024.jpg'
   },
