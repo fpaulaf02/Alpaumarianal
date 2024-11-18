@@ -60,6 +60,7 @@ export default function Sidebar({ pins, isOpen, setOpen, mapRef }: Props) {
                 height={61}
                 style={{ cursor: 'pointer' }}
                 priority
+                
               />
             </Link>
             <br></br>

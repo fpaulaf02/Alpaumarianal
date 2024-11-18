@@ -68,7 +68,7 @@ export const PLACES: IPin[] = [
     city: 'Milão',
     country: 'Itália',
     coordinates: [45.461990, 9.177132],
-    date: '2024-04-03',
+    date: '2023-11-11',
     photo: '/photos/davidsousaa/JEEAC2023.jpeg'
   },
   {
@@ -78,7 +78,7 @@ export const PLACES: IPin[] = [
     city: 'Bucareste',
     country: 'Roménia',
     coordinates: [45.461990, 9.177132],
-    date: '2024-04-03',
-    photo: '/photos/davidsousaa/JEEAC2023.jpeg'
+    date: '2024-11-09',
+    photo: '/photos/davidsousaa/JEEAC2024.jpg'
   },
 ];

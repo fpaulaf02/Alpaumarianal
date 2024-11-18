@@ -1,5 +1,5 @@
 {
-  "name": "cesium-pelo-mundo",
+  "name": "epic-pelo-mundo",
   "description": "A world map with the places we've been",
   "version": "1.0.0-beta",
   "license": "MIT",
@@ -7,7 +7,7 @@
   "bugs": "https://github.com/cesium/CeSIUMpeloMundo/issues",
   "repository": {
     "type": "git",
-    "url": "https://github.com/cesium/CeSIUMpeloMundo"
+    "url": "https://github.com/EPIC-Junior/EPICpeloMundo"
   },
   "private": true,
   "scripts": {
