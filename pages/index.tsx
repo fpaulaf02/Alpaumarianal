@@ -15,7 +15,7 @@ export default function Home() {
   return (
     <div>
       <Head>
-        <title>EPIC Pelo Mundo</title>
+        <title>Alpaumarianal Pelo Mundo</title>
         <meta
           name="description"
           content="Um mapa mundi com todos os locais onde já estivemos."
