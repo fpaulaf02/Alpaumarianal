@@ -109,7 +109,7 @@ export const PLACES: IPin[] = [
     country: 'França',
     coordinates: [43.2965, 5.3698],
     date: '2023-07-04',
-    photo: '/photos/davidsousaa/marselha.jpg'
+    photo: '/photos/davidsousaa/marselha1.jpg'
   },
   {
     author: 'Alpaumarianal',
