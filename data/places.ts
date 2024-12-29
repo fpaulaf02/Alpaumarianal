@@ -105,11 +105,11 @@ export const PLACES: IPin[] = [
     author: 'Alpaumarianal',
     username: 'paulaferreira',
     type: EPinType.Special,
-    city: 'Mónaco',
+    city: 'Marselha',
     country: 'França',
-    coordinates: [43.7384, 7.4246],
-    date: '2023-06-30',
-    photo: '/photos/davidsousaa/monaco.jpg'
+    coordinates: [43.2965, 5.3698],
+    date: '2023-07-04',
+    photo: '/photos/davidsousaa/marselha.jpg'
   },
   {
     author: 'Alpaumarianal',
