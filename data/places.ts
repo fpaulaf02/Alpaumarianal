@@ -111,4 +111,34 @@ export const PLACES: IPin[] = [
     date: '2023-06-30',
     photo: '/photos/davidsousaa/monaco.jpg'
   },
+  {
+    author: 'Alpaumarianal',
+    username: 'paulaferreira',
+    type: EPinType.Special,
+    city: 'Porto',
+    country: 'Portugal',
+    coordinates: [41.1496, -8.6109],
+    date: '2011-04-03',
+    photo: '/photos/davidsousaa/porto.jpg'
+  },
+  {
+    author: 'Alpaumarianal',
+    username: 'paulaferreira',
+    type: EPinType.Special,
+    city: 'Milão',
+    country: 'Itália',
+    coordinates: [45.4642, 9.1900],
+    date: '2023-07-07',
+    photo: '/photos/davidsousaa/milao.jpg'
+  },
+  {
+    author: 'Alpaumarianal',
+    username: 'paulaferreira',
+    type: EPinType.Special,
+    city: 'Pisa',
+    country: 'Itália',
+    coordinates: [43.7160, 10.3966],
+    date: '2023-07-03',
+    photo: '/photos/davidsousaa/pisa.jpg'
+  },
 ];
