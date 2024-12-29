@@ -51,4 +51,64 @@ export const PLACES: IPin[] = [
     date: '2023-07-03',
     photo: '/photos/davidsousaa/marselha.jpg'
   },
+  {
+    author: 'Alpaumarianal',
+    username: 'paulaferreira',
+    type: EPinType.Special,
+    city: 'Veneza',
+    country: 'Itália',
+    coordinates: [45.4408, 12.3155],
+    date: '2022-07-01',
+    photo: '/photos/davidsousaa/veneza.jpg'
+  },
+  {
+    author: 'Alpaumarianal',
+    username: 'paulaferreira',
+    type: EPinType.Special,
+    city: 'Lago di Garda',
+    country: 'Itália',
+    coordinates: [45.6040, 10.6386],
+    date: '2022-06-30',
+    photo: '/photos/davidsousaa/lagogarda.jpg'
+  },
+  {
+    author: 'Alpaumarianal',
+    username: 'paulaferreira',
+    type: EPinType.Special,
+    city: 'Génova',
+    country: 'Itália',
+    coordinates: [44.4056, 8.9463],
+    date: '2022-07-04',
+    photo: '/photos/davidsousaa/genova.jpg'
+  },
+  {
+    author: 'Alpaumarianal',
+    username: 'paulaferreira',
+    type: EPinType.Special,
+    city: 'Lago di Como',
+    country: 'Itália',
+    coordinates: [46.0164, 9.2572],
+    date: '2022-07-06',
+    photo: '/photos/davidsousaa/lagocomo.jpg'
+  },
+  {
+    author: 'Alpaumarianal',
+    username: 'paulaferreira',
+    type: EPinType.Special,
+    city: 'Mónaco',
+    country: 'França',
+    coordinates: [43.7384, 7.4246],
+    date: '2023-06-30',
+    photo: '/photos/davidsousaa/monaco.jpg'
+  },
+  {
+    author: 'Alpaumarianal',
+    username: 'paulaferreira',
+    type: EPinType.Special,
+    city: 'Mónaco',
+    country: 'França',
+    coordinates: [43.7384, 7.4246],
+    date: '2023-06-30',
+    photo: '/photos/davidsousaa/monaco.jpg'
+  },
 ];
